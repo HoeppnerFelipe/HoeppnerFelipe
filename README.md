@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hello Everyone! My name is Felipe, I`m from Brazil and I work as Quality Assurance</h2>
 
 ###
 
